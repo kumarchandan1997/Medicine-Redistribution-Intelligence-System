@@ -1,0 +1,221 @@
+hospital_id,hospital_name,district,state,latitude,longitude
+1,Sehore Hospital 1,Sehore,Madhya Pradesh,24.1686,79.8371
+2,Jaipur Hospital 2,Jaipur,Rajasthan,23.0837,76.1372
+3,Lucknow Hospital 3,Lucknow,Uttar Pradesh,22.7449,77.2061
+4,Patna Hospital 4,Patna,Bihar,24.232,79.997
+5,Nagpur Hospital 5,Nagpur,Maharashtra,25.0387,76.866
+6,Kota Hospital 6,Kota,Rajasthan,23.6596,78.5439
+7,Muzaffarpur Hospital 7,Muzaffarpur,Bihar,22.2422,75.0038
+8,Kota Hospital 8,Kota,Rajasthan,23.151,78.0866
+9,Kanpur Hospital 9,Kanpur,Uttar Pradesh,22.3553,76.9842
+10,Gaya Hospital 10,Gaya,Bihar,25.7543,78.6295
+11,Lucknow Hospital 11,Lucknow,Uttar Pradesh,23.708,78.1811
+12,Kota Hospital 12,Kota,Rajasthan,25.0166,76.1391
+13,Sehore Hospital 13,Sehore,Madhya Pradesh,23.6904,76.6432
+14,Varanasi Hospital 14,Varanasi,Uttar Pradesh,24.2712,76.0019
+15,Raisen Hospital 15,Raisen,Madhya Pradesh,24.5837,75.7426
+16,Patna Hospital 16,Patna,Bihar,25.274,76.9596
+17,Pune Hospital 17,Pune,Maharashtra,25.2765,75.6756
+18,Lucknow Hospital 18,Lucknow,Uttar Pradesh,24.8215,77.7138
+19,Jaipur Hospital 19,Jaipur,Rajasthan,23.8726,76.5626
+20,Nagpur Hospital 20,Nagpur,Maharashtra,24.3444,76.6243
+21,Jaipur Hospital 21,Jaipur,Rajasthan,24.1105,76.0229
+22,Muzaffarpur Hospital 22,Muzaffarpur,Bihar,22.5258,75.677
+23,Lucknow Hospital 23,Lucknow,Uttar Pradesh,25.6842,79.815
+24,Nagpur Hospital 24,Nagpur,Maharashtra,22.0862,75.1208
+25,Pune Hospital 25,Pune,Maharashtra,23.1884,77.2827
+26,Raisen Hospital 26,Raisen,Madhya Pradesh,25.9113,75.1549
+27,Sehore Hospital 27,Sehore,Madhya Pradesh,23.3195,76.6224
+28,Patna Hospital 28,Patna,Bihar,23.1285,79.5924
+29,Jaipur Hospital 29,Jaipur,Rajasthan,24.1154,77.2436
+30,Jaipur Hospital 30,Jaipur,Rajasthan,25.9933,78.0146
+31,Patna Hospital 31,Patna,Bihar,24.3233,79.7666
+32,Ujjain Hospital 32,Ujjain,Madhya Pradesh,24.49,77.0219
+33,Ajmer Hospital 33,Ajmer,Rajasthan,24.3549,77.1394
+34,Patna Hospital 34,Patna,Bihar,22.9502,78.0638
+35,Nagpur Hospital 35,Nagpur,Maharashtra,22.0003,78.455
+36,Raisen Hospital 36,Raisen,Madhya Pradesh,24.7941,78.1263
+37,Mumbai Hospital 37,Mumbai,Maharashtra,24.533,79.2623
+38,Kanpur Hospital 38,Kanpur,Uttar Pradesh,23.9555,77.19
+39,Jaipur Hospital 39,Jaipur,Rajasthan,25.9907,78.152
+40,Bhopal Hospital 40,Bhopal,Madhya Pradesh,23.15,79.5015
+41,Mumbai Hospital 41,Mumbai,Maharashtra,25.0594,77.0347
+42,Muzaffarpur Hospital 42,Muzaffarpur,Bihar,22.4991,77.8769
+43,Ujjain Hospital 43,Ujjain,Madhya Pradesh,25.405,77.7753
+44,Pune Hospital 44,Pune,Maharashtra,23.8029,76.2693
+45,Bhopal Hospital 45,Bhopal,Madhya Pradesh,23.4433,77.9934
+46,Mumbai Hospital 46,Mumbai,Maharashtra,22.7866,75.7313
+47,Pune Hospital 47,Pune,Maharashtra,25.1442,76.1839
+48,Lucknow Hospital 48,Lucknow,Uttar Pradesh,22.8875,78.7459
+49,Indore Hospital 49,Indore,Madhya Pradesh,24.7756,76.7623
+50,Ajmer Hospital 50,Ajmer,Rajasthan,22.2863,78.635
+51,Pune Hospital 51,Pune,Maharashtra,22.0895,77.9476
+52,Kota Hospital 52,Kota,Rajasthan,23.863,79.2769
+53,Muzaffarpur Hospital 53,Muzaffarpur,Bihar,26.0,78.0009
+54,Kota Hospital 54,Kota,Rajasthan,24.5838,76.0154
+55,Kota Hospital 55,Kota,Rajasthan,24.8778,76.16
+56,Pune Hospital 56,Pune,Maharashtra,23.0809,77.8359
+57,Prayagraj Hospital 57,Prayagraj,Uttar Pradesh,25.5103,79.6882
+58,Indore Hospital 58,Indore,Madhya Pradesh,24.5152,77.7936
+59,Varanasi Hospital 59,Varanasi,Uttar Pradesh,22.9398,76.2466
+60,Indore Hospital 60,Indore,Madhya Pradesh,24.7249,75.2524
+61,Jaipur Hospital 61,Jaipur,Rajasthan,22.619,77.093
+62,Nagpur Hospital 62,Nagpur,Maharashtra,25.1216,78.7134
+63,Prayagraj Hospital 63,Prayagraj,Uttar Pradesh,23.6092,78.5195
+64,Jaipur Hospital 64,Jaipur,Rajasthan,24.6576,76.5479
+65,Ajmer Hospital 65,Ajmer,Rajasthan,23.3805,79.7115
+66,Prayagraj Hospital 66,Prayagraj,Uttar Pradesh,25.5833,77.1855
+67,Mumbai Hospital 67,Mumbai,Maharashtra,24.9305,75.4185
+68,Nagpur Hospital 68,Nagpur,Maharashtra,25.5131,75.1575
+69,Kanpur Hospital 69,Kanpur,Uttar Pradesh,24.2813,76.0655
+70,Raisen Hospital 70,Raisen,Madhya Pradesh,25.1369,75.6039
+71,Sehore Hospital 71,Sehore,Madhya Pradesh,24.5367,75.3598
+72,Kanpur Hospital 72,Kanpur,Uttar Pradesh,22.9601,79.6249
+73,Jaipur Hospital 73,Jaipur,Rajasthan,24.8572,77.9641
+74,Jaipur Hospital 74,Jaipur,Rajasthan,25.8532,76.4323
+75,Mumbai Hospital 75,Mumbai,Maharashtra,25.4926,77.6926
+76,Ajmer Hospital 76,Ajmer,Rajasthan,22.9102,75.7533
+77,Sehore Hospital 77,Sehore,Madhya Pradesh,22.4535,76.8789
+78,Ujjain Hospital 78,Ujjain,Madhya Pradesh,23.2047,78.2848
+79,Kota Hospital 79,Kota,Rajasthan,23.0322,76.7434
+80,Jaipur Hospital 80,Jaipur,Rajasthan,25.8088,76.6424
+81,Jaipur Hospital 81,Jaipur,Rajasthan,25.1693,75.0877
+82,Mumbai Hospital 82,Mumbai,Maharashtra,23.2187,77.7576
+83,Lucknow Hospital 83,Lucknow,Uttar Pradesh,22.335,79.0515
+84,Jaipur Hospital 84,Jaipur,Rajasthan,24.4457,78.1959
+85,Indore Hospital 85,Indore,Madhya Pradesh,22.891,76.4387
+86,Jaipur Hospital 86,Jaipur,Rajasthan,22.1461,76.2223
+87,Nagpur Hospital 87,Nagpur,Maharashtra,25.5351,76.8346
+88,Kota Hospital 88,Kota,Rajasthan,25.8939,77.2204
+89,Indore Hospital 89,Indore,Madhya Pradesh,25.8171,76.3931
+90,Gaya Hospital 90,Gaya,Bihar,25.3554,78.4188
+91,Patna Hospital 91,Patna,Bihar,25.5193,78.9497
+92,Muzaffarpur Hospital 92,Muzaffarpur,Bihar,23.6006,78.027
+93,Kota Hospital 93,Kota,Rajasthan,24.116,77.9931
+94,Gaya Hospital 94,Gaya,Bihar,23.521,79.9916
+95,Indore Hospital 95,Indore,Madhya Pradesh,22.2803,75.0655
+96,Bhopal Hospital 96,Bhopal,Madhya Pradesh,22.2884,76.634
+97,Bhopal Hospital 97,Bhopal,Madhya Pradesh,25.6347,76.7592
+98,Ujjain Hospital 98,Ujjain,Madhya Pradesh,22.2551,76.4998
+99,Pune Hospital 99,Pune,Maharashtra,23.3292,79.2424
+100,Kota Hospital 100,Kota,Rajasthan,25.1477,75.2202
+101,Pune Hospital 101,Pune,Maharashtra,23.8908,79.8701
+102,Pune Hospital 102,Pune,Maharashtra,24.1103,79.5925
+103,Pune Hospital 103,Pune,Maharashtra,25.2534,79.6906
+104,Gaya Hospital 104,Gaya,Bihar,23.2978,78.7065
+105,Pune Hospital 105,Pune,Maharashtra,24.4793,79.1035
+106,Muzaffarpur Hospital 106,Muzaffarpur,Bihar,22.5544,76.6316
+107,Indore Hospital 107,Indore,Madhya Pradesh,25.6465,77.8153
+108,Sehore Hospital 108,Sehore,Madhya Pradesh,24.5374,76.7924
+109,Raisen Hospital 109,Raisen,Madhya Pradesh,23.4166,79.5639
+110,Prayagraj Hospital 110,Prayagraj,Uttar Pradesh,24.7673,77.8063
+111,Kota Hospital 111,Kota,Rajasthan,22.7408,77.1367
+112,Gaya Hospital 112,Gaya,Bihar,23.4058,76.5326
+113,Prayagraj Hospital 113,Prayagraj,Uttar Pradesh,25.1716,76.8784
+114,Ajmer Hospital 114,Ajmer,Rajasthan,24.5964,75.0008
+115,Gaya Hospital 115,Gaya,Bihar,24.8448,75.3148
+116,Muzaffarpur Hospital 116,Muzaffarpur,Bihar,24.1667,79.4442
+117,Varanasi Hospital 117,Varanasi,Uttar Pradesh,22.801,76.4814
+118,Prayagraj Hospital 118,Prayagraj,Uttar Pradesh,23.9966,79.1832
+119,Kota Hospital 119,Kota,Rajasthan,24.7564,79.9995
+120,Raisen Hospital 120,Raisen,Madhya Pradesh,24.4804,77.264
+121,Kota Hospital 121,Kota,Rajasthan,24.0921,77.5717
+122,Prayagraj Hospital 122,Prayagraj,Uttar Pradesh,25.9753,79.9586
+123,Gaya Hospital 123,Gaya,Bihar,25.5614,75.8192
+124,Indore Hospital 124,Indore,Madhya Pradesh,25.6207,75.9357
+125,Ujjain Hospital 125,Ujjain,Madhya Pradesh,22.1096,75.8355
+126,Kanpur Hospital 126,Kanpur,Uttar Pradesh,22.5583,76.5206
+127,Ajmer Hospital 127,Ajmer,Rajasthan,24.1638,78.1843
+128,Ajmer Hospital 128,Ajmer,Rajasthan,23.3174,78.9276
+129,Kanpur Hospital 129,Kanpur,Uttar Pradesh,24.7418,78.2141
+130,Mumbai Hospital 130,Mumbai,Maharashtra,23.6652,78.0856
+131,Lucknow Hospital 131,Lucknow,Uttar Pradesh,22.0679,79.7085
+132,Varanasi Hospital 132,Varanasi,Uttar Pradesh,24.2432,79.9264
+133,Mumbai Hospital 133,Mumbai,Maharashtra,25.7758,76.1636
+134,Raisen Hospital 134,Raisen,Madhya Pradesh,22.309,76.1521
+135,Gaya Hospital 135,Gaya,Bihar,22.9006,77.1219
+136,Pune Hospital 136,Pune,Maharashtra,25.2397,79.6726
+137,Muzaffarpur Hospital 137,Muzaffarpur,Bihar,24.5242,76.2856
+138,Muzaffarpur Hospital 138,Muzaffarpur,Bihar,23.0167,78.6228
+139,Mumbai Hospital 139,Mumbai,Maharashtra,22.4263,79.0643
+140,Jaipur Hospital 140,Jaipur,Rajasthan,22.5584,76.8117
+141,Patna Hospital 141,Patna,Bihar,23.9299,79.4217
+142,Nagpur Hospital 142,Nagpur,Maharashtra,23.1491,79.3998
+143,Patna Hospital 143,Patna,Bihar,24.6465,79.6645
+144,Bhopal Hospital 144,Bhopal,Madhya Pradesh,22.4658,79.8765
+145,Kanpur Hospital 145,Kanpur,Uttar Pradesh,22.536,78.7105
+146,Patna Hospital 146,Patna,Bihar,25.4825,79.1048
+147,Gaya Hospital 147,Gaya,Bihar,25.5925,75.854
+148,Gaya Hospital 148,Gaya,Bihar,24.3483,76.7249
+149,Gaya Hospital 149,Gaya,Bihar,23.001,79.8532
+150,Muzaffarpur Hospital 150,Muzaffarpur,Bihar,22.1518,77.5682
+151,Nagpur Hospital 151,Nagpur,Maharashtra,24.3585,75.4738
+152,Pune Hospital 152,Pune,Maharashtra,25.762,78.097
+153,Muzaffarpur Hospital 153,Muzaffarpur,Bihar,22.6652,77.8081
+154,Sehore Hospital 154,Sehore,Madhya Pradesh,25.5917,79.9123
+155,Raisen Hospital 155,Raisen,Madhya Pradesh,22.0397,77.9014
+156,Muzaffarpur Hospital 156,Muzaffarpur,Bihar,22.738,75.5057
+157,Ujjain Hospital 157,Ujjain,Madhya Pradesh,22.5623,79.2088
+158,Varanasi Hospital 158,Varanasi,Uttar Pradesh,24.2253,76.6048
+159,Patna Hospital 159,Patna,Bihar,25.8981,79.7695
+160,Sehore Hospital 160,Sehore,Madhya Pradesh,22.2081,76.2272
+161,Patna Hospital 161,Patna,Bihar,25.83,75.3939
+162,Indore Hospital 162,Indore,Madhya Pradesh,24.0979,79.0907
+163,Varanasi Hospital 163,Varanasi,Uttar Pradesh,23.188,76.2111
+164,Mumbai Hospital 164,Mumbai,Maharashtra,25.7576,79.0998
+165,Gaya Hospital 165,Gaya,Bihar,24.5892,76.4413
+166,Kota Hospital 166,Kota,Rajasthan,24.5748,79.2415
+167,Ajmer Hospital 167,Ajmer,Rajasthan,23.665,76.8074
+168,Nagpur Hospital 168,Nagpur,Maharashtra,24.9261,78.202
+169,Kota Hospital 169,Kota,Rajasthan,24.8845,77.804
+170,Mumbai Hospital 170,Mumbai,Maharashtra,25.8124,79.9785
+171,Prayagraj Hospital 171,Prayagraj,Uttar Pradesh,22.2874,76.3841
+172,Ajmer Hospital 172,Ajmer,Rajasthan,23.5938,79.0095
+173,Raisen Hospital 173,Raisen,Madhya Pradesh,23.6541,76.3226
+174,Bhopal Hospital 174,Bhopal,Madhya Pradesh,22.8481,76.3326
+175,Nagpur Hospital 175,Nagpur,Maharashtra,24.6916,76.4546
+176,Ajmer Hospital 176,Ajmer,Rajasthan,22.3309,76.1465
+177,Gaya Hospital 177,Gaya,Bihar,22.8422,78.6209
+178,Pune Hospital 178,Pune,Maharashtra,24.137,77.1046
+179,Mumbai Hospital 179,Mumbai,Maharashtra,23.673,77.7246
+180,Indore Hospital 180,Indore,Madhya Pradesh,22.4554,79.3583
+181,Sehore Hospital 181,Sehore,Madhya Pradesh,22.6489,76.5678
+182,Prayagraj Hospital 182,Prayagraj,Uttar Pradesh,23.5671,76.7266
+183,Sehore Hospital 183,Sehore,Madhya Pradesh,22.0822,75.1232
+184,Gaya Hospital 184,Gaya,Bihar,22.6261,75.1743
+185,Patna Hospital 185,Patna,Bihar,25.578,79.8521
+186,Varanasi Hospital 186,Varanasi,Uttar Pradesh,22.0223,78.8416
+187,Muzaffarpur Hospital 187,Muzaffarpur,Bihar,25.4902,77.0208
+188,Gaya Hospital 188,Gaya,Bihar,25.6937,78.0622
+189,Ajmer Hospital 189,Ajmer,Rajasthan,25.4286,77.5269
+190,Prayagraj Hospital 190,Prayagraj,Uttar Pradesh,22.1095,78.7086
+191,Sehore Hospital 191,Sehore,Madhya Pradesh,24.1657,79.9546
+192,Pune Hospital 192,Pune,Maharashtra,23.0363,77.243
+193,Sehore Hospital 193,Sehore,Madhya Pradesh,25.4503,75.2213
+194,Ajmer Hospital 194,Ajmer,Rajasthan,24.227,77.0735
+195,Mumbai Hospital 195,Mumbai,Maharashtra,25.8771,75.8087
+196,Pune Hospital 196,Pune,Maharashtra,25.017,75.5828
+197,Patna Hospital 197,Patna,Bihar,24.8494,78.1202
+198,Nagpur Hospital 198,Nagpur,Maharashtra,25.7634,76.9814
+199,Varanasi Hospital 199,Varanasi,Uttar Pradesh,23.7294,79.4829
+200,Lucknow Hospital 200,Lucknow,Uttar Pradesh,22.3503,76.5157
+201,Muzaffarpur Hospital 201,Muzaffarpur,Bihar,23.0852,76.7111
+202,Ajmer Hospital 202,Ajmer,Rajasthan,23.6976,77.0711
+203,Raisen Hospital 203,Raisen,Madhya Pradesh,23.3142,77.9648
+204,Sehore Hospital 204,Sehore,Madhya Pradesh,24.595,77.8975
+205,Sehore Hospital 205,Sehore,Madhya Pradesh,23.2295,75.4247
+206,Jaipur Hospital 206,Jaipur,Rajasthan,25.9723,79.443
+207,Varanasi Hospital 207,Varanasi,Uttar Pradesh,23.6672,78.6903
+208,Nagpur Hospital 208,Nagpur,Maharashtra,25.0815,79.2083
+209,Varanasi Hospital 209,Varanasi,Uttar Pradesh,25.5757,77.1183
+210,Raisen Hospital 210,Raisen,Madhya Pradesh,25.1105,75.4092
+211,Indore Hospital 211,Indore,Madhya Pradesh,22.4036,79.2178
+212,Kota Hospital 212,Kota,Rajasthan,23.7243,75.7479
+213,Patna Hospital 213,Patna,Bihar,24.9022,75.1947
+214,Gaya Hospital 214,Gaya,Bihar,25.6575,77.4367
+215,Muzaffarpur Hospital 215,Muzaffarpur,Bihar,23.7677,75.0106
+216,Muzaffarpur Hospital 216,Muzaffarpur,Bihar,25.3564,79.394
+217,Lucknow Hospital 217,Lucknow,Uttar Pradesh,23.4821,78.9357
+218,Pune Hospital 218,Pune,Maharashtra,23.8747,79.7138
+219,Lucknow Hospital 219,Lucknow,Uttar Pradesh,25.4232,75.4623
+220,Patna Hospital 220,Patna,Bihar,22.186,79.7588
