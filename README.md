@@ -41,3 +41,37 @@ MySQL Database
 ↓
 Flask Dashboard (Planned)
 
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Python 3
+- **Data Processing:** Pandas
+- **Database:** MySQL
+- **Backend Framework:** Flask (Planned)
+- **Architecture:** Modular, Service-Based
+
+---
+
+## 🗂️ Project Structure
+
+
+---
+
+## ✅ Features
+
+- Expiry-based priority scoring
+- Demand forecasting using daily consumption
+- Distance-based hospital matching
+- Cost saving and patient impact estimation
+- Centralized MySQL storage
+- Scalable and dashboard-ready design
+
+---
+
+## 🧩 Database Schema
+
+### Hospitals
+
+
