@@ -1,1 +1,31 @@
-# Medicine-Redistribution-Intelligence-System
+# 🏥 Medicine Redistribution Intelligence System (India)
+
+AI-driven system to reduce medicine wastage and improve availability across Indian hospitals using Python, Pandas, and MySQL.
+
+---
+
+## 📌 Overview
+
+In India, large quantities of medicines expire every year in hospitals while many rural and district hospitals face shortages of essential drugs.  
+This project addresses this critical healthcare logistics problem by intelligently redistributing medicines before expiry.
+
+The system:
+- Detects expiring medicines
+- Predicts demand using consumption data
+- Suggests redistribution between nearby hospitals
+- Calculates cost savings and patient impact
+- Stores all analytics in MySQL for dashboards and reporting
+
+---
+
+## 🎯 Key Objectives
+
+- Identify medicines nearing expiry
+- Reduce wastage and improve utilization
+- Support data-driven healthcare decisions
+- Build a scalable, government-ready backend system
+
+---
+
+## 🧠 System Architecture
+
