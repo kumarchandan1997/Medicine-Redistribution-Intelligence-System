@@ -1,0 +1,604 @@
+priority,from,to,medicine,distance_km,quantity,cost_saved_inr
+363.0,Mumbai Hospital 139,Lucknow Hospital 83,Amoxicillin,10.24,789,3945
+360.0,Gaya Hospital 147,Pune Hospital 17,Amlodipine,39.44,771,3855
+358.8,Muzaffarpur Hospital 153,Pune Hospital 56,Azithromycin,46.31,795,3975
+356.6,Ujjain Hospital 32,Ajmer Hospital 194,Amlodipine,29.71,785,3925
+356.6,Ujjain Hospital 32,Raisen Hospital 120,Amlodipine,24.52,785,3925
+356.2,Patna Hospital 141,Indore Hospital 162,Metformin,38.46,772,3860
+356.2,Patna Hospital 141,Varanasi Hospital 199,Metformin,23.15,772,3860
+356.2,Patna Hospital 141,Varanasi Hospital 199,Metformin,23.15,772,3860
+355.0,Pune Hospital 192,Pune Hospital 25,Amlodipine,17.39,790,3950
+353.0,Muzaffarpur Hospital 187,Varanasi Hospital 209,Paracetamol,13.64,800,4000
+353.0,Muzaffarpur Hospital 187,Patna Hospital 16,Paracetamol,24.81,800,4000
+353.0,Muzaffarpur Hospital 187,Kota Hospital 88,Paracetamol,49.14,800,4000
+343.8,Prayagraj Hospital 63,Lucknow Hospital 217,Amlodipine,44.72,795,3975
+342.4,Kota Hospital 79,Muzaffarpur Hospital 201,ORS,6.76,769,3845
+342.4,Kota Hospital 79,Varanasi Hospital 117,ORS,37.16,769,3845
+339.8,Gaya Hospital 94,Raisen Hospital 109,Amoxicillin,45.14,758,3790
+338.6,Indore Hospital 58,Kota Hospital 93,Paracetamol,48.78,710,3550
+338.6,Indore Hospital 58,Jaipur Hospital 84,Paracetamol,41.44,710,3550
+337.8,Ajmer Hospital 194,Sehore Hospital 108,Vitamin B-Complex,44.74,726,3630
+337.8,Ajmer Hospital 194,Jaipur Hospital 29,Vitamin B-Complex,21.25,726,3630
+337.8,Ajmer Hospital 194,Sehore Hospital 108,Vitamin B-Complex,44.74,726,3630
+334.2,Raisen Hospital 203,Mumbai Hospital 82,Metformin,23.68,789,3945
+334.2,Raisen Hospital 203,Patna Hospital 34,Metformin,41.72,789,3945
+333.4,Kota Hospital 54,Kota Hospital 12,Ibuprofen,49.72,700,3500
+333.4,Kota Hospital 54,Kota Hospital 12,Ibuprofen,49.72,700,3500
+333.4,Kota Hospital 54,Muzaffarpur Hospital 137,Ibuprofen,28.12,700,3500
+331.8,Kota Hospital 111,Kanpur Hospital 9,Vitamin B-Complex,45.64,696,3480
+331.8,Kota Hospital 111,Jaipur Hospital 140,Vitamin B-Complex,39.03,696,3480
+331.8,Kota Hospital 111,Sehore Hospital 77,Vitamin B-Complex,41.48,696,3480
+331.6,Lucknow Hospital 200,Muzaffarpur Hospital 106,Azithromycin,25.63,694,3470
+331.6,Lucknow Hospital 200,Sehore Hospital 181,Azithromycin,33.63,694,3470
+331.6,Lucknow Hospital 200,Ujjain Hospital 98,Azithromycin,10.71,694,3470
+325.0,Indore Hospital 85,Kota Hospital 79,Azithromycin,34.92,727,3635
+325.0,Indore Hospital 85,Muzaffarpur Hospital 201,Azithromycin,35.27,727,3635
+325.0,Indore Hospital 85,Kota Hospital 79,Azithromycin,34.92,727,3635
+325.0,Indore Hospital 85,Muzaffarpur Hospital 106,Azithromycin,42.34,727,3635
+325.0,Indore Hospital 85,Sehore Hospital 181,Azithromycin,30.0,727,3635
+325.0,Indore Hospital 85,Muzaffarpur Hospital 201,Azithromycin,35.27,727,3635
+322.2,Sehore Hospital 13,Jaipur Hospital 19,Insulin,21.86,756,3780
+322.0,Jaipur Hospital 21,Varanasi Hospital 14,Cough Syrup,18.0,748,3740
+322.0,Jaipur Hospital 21,Kanpur Hospital 69,Cough Syrup,19.48,748,3740
+321.2,Kanpur Hospital 9,Lucknow Hospital 200,ORS,48.18,674,3370
+321.2,Kanpur Hospital 9,Jaipur Hospital 140,ORS,28.71,674,3370
+321.2,Kanpur Hospital 9,Lucknow Hospital 200,ORS,48.18,674,3370
+321.0,Raisen Hospital 70,Pune Hospital 17,Cough Syrup,17.12,690,3450
+321.0,Raisen Hospital 70,Patna Hospital 213,Cough Syrup,48.8,690,3450
+321.0,Raisen Hospital 70,Pune Hospital 196,Cough Syrup,13.5,690,3450
+321.0,Raisen Hospital 70,Pune Hospital 196,Cough Syrup,13.5,690,3450
+321.0,Raisen Hospital 70,Kota Hospital 100,Cough Syrup,38.64,690,3450
+320.4,Lucknow Hospital 217,Ajmer Hospital 172,Ibuprofen,14.52,738,3690
+320.4,Lucknow Hospital 217,Ajmer Hospital 128,Ibuprofen,18.33,738,3690
+317.6,Sehore Hospital 160,Jaipur Hospital 86,Vitamin B-Complex,6.91,764,3820
+316.8,Mumbai Hospital 195,Gaya Hospital 147,Vitamin B-Complex,31.97,696,3480
+316.8,Mumbai Hospital 195,Indore Hospital 124,Vitamin B-Complex,31.22,696,3480
+316.4,Muzaffarpur Hospital 106,Lucknow Hospital 200,ORS,25.63,665,3325
+316.4,Muzaffarpur Hospital 106,Varanasi Hospital 117,ORS,31.45,665,3325
+316.4,Muzaffarpur Hospital 106,Jaipur Hospital 140,ORS,18.5,665,3325
+316.4,Muzaffarpur Hospital 106,Kanpur Hospital 126,ORS,11.41,665,3325
+316.4,Muzaffarpur Hospital 106,Lucknow Hospital 200,ORS,25.63,665,3325
+314.0,Jaipur Hospital 84,Kota Hospital 93,Azithromycin,42.03,656,3280
+314.0,Jaipur Hospital 84,Sehore Hospital 204,Azithromycin,34.45,656,3280
+313.6,Prayagraj Hospital 190,Kanpur Hospital 145,Paracetamol,47.43,781,3905
+313.6,Prayagraj Hospital 190,Varanasi Hospital 186,Paracetamol,16.79,781,3905
+310.4,Pune Hospital 136,Sehore Hospital 154,Paracetamol,45.95,689,3445
+309.4,Kota Hospital 100,Indore Hospital 60,Cough Syrup,47.13,703,3515
+309.4,Kota Hospital 100,Pune Hospital 17,Cough Syrup,48.0,703,3515
+309.4,Kota Hospital 100,Patna Hospital 213,Cough Syrup,27.42,703,3515
+309.4,Kota Hospital 100,Pune Hospital 196,Cough Syrup,39.3,703,3515
+309.4,Kota Hospital 100,Pune Hospital 196,Cough Syrup,39.3,703,3515
+308.8,Mumbai Hospital 139,Lucknow Hospital 83,Metformin,10.24,655,3275
+307.4,Nagpur Hospital 24,Muzaffarpur Hospital 7,Insulin,21.12,668,3340
+306.0,Patna Hospital 161,Sehore Hospital 193,ORS,45.63,711,3555
+305.0,Kota Hospital 111,Lucknow Hospital 3,Azithromycin,7.13,686,3430
+302.4,Nagpur Hospital 175,Sehore Hospital 108,Vitamin B-Complex,38.21,756,3780
+302.4,Nagpur Hospital 175,Sehore Hospital 108,Vitamin B-Complex,38.21,756,3780
+302.4,Nagpur Hospital 175,Kota Hospital 55,Vitamin B-Complex,36.24,756,3780
+300.4,Muzaffarpur Hospital 106,Lucknow Hospital 200,ORS,25.63,742,3710
+300.4,Muzaffarpur Hospital 106,Varanasi Hospital 117,ORS,31.45,742,3710
+300.4,Muzaffarpur Hospital 106,Jaipur Hospital 140,ORS,18.5,742,3710
+300.4,Muzaffarpur Hospital 106,Kanpur Hospital 126,ORS,11.41,742,3710
+300.4,Muzaffarpur Hospital 106,Lucknow Hospital 200,ORS,25.63,742,3710
+300.4,Kota Hospital 8,Bhopal Hospital 45,Azithromycin,33.87,709,3545
+300.4,Kota Hospital 8,Pune Hospital 56,Azithromycin,26.8,709,3545
+299.8,Sehore Hospital 193,Raisen Hospital 210,Amoxicillin,42.24,727,3635
+298.8,Bhopal Hospital 45,Pune Hospital 56,Ibuprofen,43.39,672,3360
+298.8,Bhopal Hospital 45,Kota Hospital 8,Ibuprofen,33.87,672,3360
+298.6,Nagpur Hospital 151,Indore Hospital 60,Cough Syrup,46.49,700,3500
+298.6,Gaya Hospital 104,Muzaffarpur Hospital 138,Cough Syrup,32.41,628,3140
+298.6,Gaya Hospital 104,Muzaffarpur Hospital 138,Cough Syrup,32.41,628,3140
+298.6,Gaya Hospital 104,Ajmer Hospital 172,Cough Syrup,45.15,628,3140
+298.6,Gaya Hospital 104,Muzaffarpur Hospital 138,Cough Syrup,32.41,628,3140
+297.8,Gaya Hospital 165,Indore Hospital 49,Cough Syrup,38.49,620,3100
+297.8,Gaya Hospital 165,Gaya Hospital 148,Cough Syrup,39.26,620,3100
+297.8,Gaya Hospital 165,Kota Hospital 54,Cough Syrup,43.07,620,3100
+297.8,Gaya Hospital 165,Jaipur Hospital 64,Cough Syrup,13.19,620,3100
+297.8,Raisen Hospital 134,Ujjain Hospital 125,Cough Syrup,39.42,731,3655
+297.8,Raisen Hospital 134,Kanpur Hospital 126,Cough Syrup,46.94,731,3655
+297.8,Raisen Hospital 134,Jaipur Hospital 86,Cough Syrup,19.5,731,3655
+297.2,Mumbai Hospital 82,Pune Hospital 56,Ibuprofen,17.29,608,3040
+297.2,Mumbai Hospital 82,Kota Hospital 8,Ibuprofen,34.46,608,3040
+297.2,Mumbai Hospital 82,Bhopal Hospital 45,Ibuprofen,34.69,608,3040
+296.4,Mumbai Hospital 133,Gaya Hospital 147,Vitamin B-Complex,37.12,648,3240
+296.4,Mumbai Hospital 133,Indore Hospital 124,Vitamin B-Complex,28.62,648,3240
+295.8,Pune Hospital 196,Mumbai Hospital 67,Ibuprofen,19.15,645,3225
+295.2,Pune Hospital 101,Varanasi Hospital 132,ORS,39.6,711,3555
+295.2,Pune Hospital 101,Pune Hospital 102,ORS,37.29,711,3555
+292.0,Prayagraj Hospital 190,Nagpur Hospital 35,Amlodipine,28.82,640,3200
+290.4,Jaipur Hospital 61,Kanpur Hospital 9,Paracetamol,31.38,726,3630
+290.4,Jaipur Hospital 61,Kanpur Hospital 9,Paracetamol,31.38,726,3630
+289.8,Indore Hospital 180,Mumbai Hospital 139,ORS,30.39,633,3165
+289.8,Indore Hospital 180,Ujjain Hospital 157,ORS,19.42,633,3165
+289.8,Indore Hospital 180,Ujjain Hospital 157,ORS,19.42,633,3165
+289.6,Sehore Hospital 193,Pune Hospital 17,Cough Syrup,49.57,706,3530
+289.6,Sehore Hospital 193,Kota Hospital 100,Cough Syrup,33.65,706,3530
+288.8,Raisen Hospital 26,Nagpur Hospital 68,Ibuprofen,44.28,683,3415
+288.2,Lucknow Hospital 219,Pune Hospital 17,Amlodipine,26.94,659,3295
+288.2,Lucknow Hospital 219,Raisen Hospital 70,Amlodipine,34.87,659,3295
+287.6,Varanasi Hospital 207,Gaya Hospital 104,Paracetamol,41.11,614,3070
+283.2,Raisen Hospital 203,Muzaffarpur Hospital 92,Azithromycin,32.47,588,2940
+283.2,Raisen Hospital 203,Bhopal Hospital 45,Azithromycin,14.65,588,2940
+283.2,Raisen Hospital 203,Pune Hospital 56,Azithromycin,29.1,588,2940
+283.2,Muzaffarpur Hospital 92,Bhopal Hospital 45,Insulin,17.82,630,3150
+283.2,Muzaffarpur Hospital 92,Mumbai Hospital 130,Insulin,9.34,630,3150
+283.0,Ajmer Hospital 50,Mumbai Hospital 139,Insulin,46.81,649,3245
+283.0,Ajmer Hospital 50,Prayagraj Hospital 190,Insulin,21.07,649,3245
+282.8,Muzaffarpur Hospital 92,Mumbai Hospital 179,Amlodipine,31.84,599,2995
+281.8,Pune Hospital 102,Kota Hospital 52,Ibuprofen,42.24,595,2975
+281.8,Pune Hospital 102,Patna Hospital 31,Ibuprofen,29.54,595,2975
+281.4,Kota Hospital 111,Lucknow Hospital 3,Azithromycin,7.13,675,3375
+280.0,Kanpur Hospital 145,Lucknow Hospital 83,Vitamin B-Complex,41.57,592,2960
+277.2,Nagpur Hospital 142,Raisen Hospital 109,Vitamin B-Complex,34.14,600,3000
+276.4,Kota Hospital 79,Bhopal Hospital 174,Amlodipine,46.78,652,3260
+276.4,Kota Hospital 79,Varanasi Hospital 117,Amlodipine,37.16,652,3260
+276.4,Kota Hospital 79,Varanasi Hospital 117,Amlodipine,37.16,652,3260
+276.4,Kota Hospital 79,Gaya Hospital 112,Amlodipine,46.8,652,3260
+276.2,Sehore Hospital 181,Bhopal Hospital 174,Paracetamol,32.75,647,3235
+276.2,Sehore Hospital 181,Bhopal Hospital 174,Paracetamol,32.75,647,3235
+275.4,Patna Hospital 185,Pune Hospital 136,Azithromycin,41.71,612,3060
+273.2,Gaya Hospital 135,Pune Hospital 25,Amlodipine,35.98,611,3055
+272.6,Patna Hospital 143,Mumbai Hospital 37,Amlodipine,42.58,665,3325
+270.4,Jaipur Hospital 86,Lucknow Hospital 200,Metformin,37.78,634,3170
+270.4,Jaipur Hospital 86,Lucknow Hospital 200,Metformin,37.78,634,3170
+267.6,Kanpur Hospital 129,Nagpur Hospital 168,Azithromycin,20.53,597,2985
+267.6,Kanpur Hospital 129,Prayagraj Hospital 110,Azithromycin,41.28,597,2985
+267.6,Kanpur Hospital 129,Jaipur Hospital 84,Azithromycin,32.98,597,2985
+267.6,Kanpur Hospital 129,Sehore Hospital 204,Azithromycin,35.92,597,2985
+266.6,Patna Hospital 34,Pune Hospital 56,Azithromycin,27.48,584,2920
+265.4,Gaya Hospital 115,Pune Hospital 196,Vitamin B-Complex,33.12,569,2845
+263.8,Sehore Hospital 108,Ajmer Hospital 194,Metformin,44.74,613,3065
+263.8,Sehore Hospital 108,Nagpur Hospital 20,Metformin,27.39,613,3065
+259.8,Prayagraj Hospital 118,Ajmer Hospital 172,Amoxicillin,48.15,570,2850
+259.8,Prayagraj Hospital 118,Indore Hospital 162,Amoxicillin,14.67,570,2850
+259.8,Prayagraj Hospital 118,Varanasi Hospital 199,Amoxicillin,42.56,570,2850
+259.8,Prayagraj Hospital 118,Pune Hospital 102,Amoxicillin,43.44,570,2850
+259.8,Prayagraj Hospital 118,Indore Hospital 162,Amoxicillin,14.67,570,2850
+259.8,Prayagraj Hospital 118,Pune Hospital 102,Amoxicillin,43.44,570,2850
+258.4,Ajmer Hospital 167,Raisen Hospital 173,Amoxicillin,49.39,571,2855
+256.8,Sehore Hospital 71,Mumbai Hospital 67,Ibuprofen,44.19,549,2745
+255.8,Ajmer Hospital 128,Ajmer Hospital 172,ORS,31.85,605,3025
+255.8,Ajmer Hospital 128,Lucknow Hospital 217,ORS,18.33,605,3025
+255.4,Bhopal Hospital 45,Mumbai Hospital 82,Metformin,34.69,628,3140
+255.2,Indore Hospital 60,Mumbai Hospital 67,Insulin,28.35,569,2845
+255.2,Indore Hospital 60,Sehore Hospital 71,Insulin,23.58,569,2845
+253.4,Varanasi Hospital 207,Gaya Hospital 104,Cough Syrup,41.11,632,3160
+253.4,Varanasi Hospital 207,Ajmer Hospital 172,Cough Syrup,33.53,632,3160
+253.0,Pune Hospital 17,Raisen Hospital 210,Paracetamol,32.55,520,2600
+253.0,Pune Hospital 17,Gaya Hospital 147,Paracetamol,39.44,520,2600
+253.0,Pune Hospital 17,Raisen Hospital 70,Paracetamol,17.12,520,2600
+253.0,Pune Hospital 17,Sehore Hospital 193,Paracetamol,49.57,520,2600
+253.0,Pune Hospital 17,Kota Hospital 100,Paracetamol,48.0,520,2600
+252.2,Prayagraj Hospital 66,Patna Hospital 16,Azithromycin,41.2,623,3115
+252.2,Prayagraj Hospital 66,Ajmer Hospital 189,Azithromycin,38.34,623,3115
+252.2,Prayagraj Hospital 66,Ajmer Hospital 189,Azithromycin,38.34,623,3115
+249.8,Varanasi Hospital 207,Ajmer Hospital 128,Amlodipine,45.81,488,2440
+249.8,Varanasi Hospital 207,Lucknow Hospital 217,Amlodipine,32.39,488,2440
+249.2,Ujjain Hospital 125,Jaipur Hospital 86,Ibuprofen,40.05,497,2485
+249.0,Muzaffarpur Hospital 153,Patna Hospital 34,ORS,41.12,492,2460
+249.0,Ujjain Hospital 32,Raisen Hospital 120,Insulin,24.52,525,2625
+249.0,Ujjain Hospital 32,Jaipur Hospital 29,Insulin,47.33,525,2625
+246.0,Gaya Hospital 123,Pune Hospital 17,ORS,34.81,525,2625
+246.0,Gaya Hospital 123,Gaya Hospital 147,ORS,4.91,525,2625
+245.8,Prayagraj Hospital 122,Sehore Hospital 154,ORS,42.91,586,2930
+245.4,Prayagraj Hospital 63,Gaya Hospital 104,Cough Syrup,39.53,573,2865
+245.4,Prayagraj Hospital 63,Ajmer Hospital 172,Cough Syrup,49.96,573,2865
+244.8,Lucknow Hospital 83,Ujjain Hospital 157,Vitamin B-Complex,30.0,477,2385
+244.8,Lucknow Hospital 83,Ujjain Hospital 157,Vitamin B-Complex,30.0,477,2385
+244.0,Jaipur Hospital 61,Lucknow Hospital 3,Azithromycin,18.18,577,2885
+244.0,Jaipur Hospital 61,Kota Hospital 111,Azithromycin,14.27,577,2885
+244.0,Jaipur Hospital 61,Muzaffarpur Hospital 106,Azithromycin,47.91,577,2885
+243.8,Patna Hospital 4,Patna Hospital 31,Ibuprofen,25.46,572,2860
+243.8,Patna Hospital 4,Pune Hospital 102,Ibuprofen,43.21,572,2860
+239.2,Muzaffarpur Hospital 187,Kota Hospital 88,Amoxicillin,49.14,493,2465
+239.2,Muzaffarpur Hospital 187,Prayagraj Hospital 113,Amoxicillin,38.21,493,2465
+239.2,Mumbai Hospital 179,Muzaffarpur Hospital 92,Amlodipine,31.84,556,2780
+239.0,Muzaffarpur Hospital 201,Varanasi Hospital 117,ORS,39.39,515,2575
+238.8,Kota Hospital 55,Gaya Hospital 165,Amoxicillin,42.86,489,2445
+238.8,Kota Hospital 55,Kota Hospital 54,Amoxicillin,35.81,489,2445
+238.0,Sehore Hospital 154,Mumbai Hospital 170,Metformin,25.42,475,2375
+238.0,Sehore Hospital 154,Prayagraj Hospital 57,Metformin,24.24,475,2375
+236.6,Jaipur Hospital 21,Kanpur Hospital 69,Paracetamol,19.48,560,2800
+236.2,Raisen Hospital 203,Mumbai Hospital 82,Metformin,23.68,472,2360
+236.2,Raisen Hospital 203,Patna Hospital 34,Metformin,41.72,472,2360
+235.2,Raisen Hospital 70,Patna Hospital 213,Metformin,48.8,486,2430
+235.2,Raisen Hospital 70,Kota Hospital 100,Metformin,38.64,486,2430
+235.2,Raisen Hospital 70,Pune Hospital 17,Metformin,17.12,486,2430
+235.2,Raisen Hospital 70,Lucknow Hospital 219,Metformin,34.87,486,2430
+235.2,Raisen Hospital 70,Kota Hospital 100,Metformin,38.64,486,2430
+232.4,Indore Hospital 107,Pune Hospital 152,Azithromycin,31.01,536,2680
+232.4,Indore Hospital 107,Ajmer Hospital 189,Azithromycin,37.74,536,2680
+232.4,Indore Hospital 107,Ajmer Hospital 189,Azithromycin,37.74,536,2680
+231.8,Patna Hospital 141,Indore Hospital 162,Metformin,38.46,566,2830
+231.8,Patna Hospital 141,Varanasi Hospital 199,Metformin,23.15,566,2830
+231.8,Patna Hospital 141,Varanasi Hospital 199,Metformin,23.15,566,2830
+230.6,Kota Hospital 121,Kota Hospital 93,Azithromycin,42.85,506,2530
+230.6,Kota Hospital 121,Pune Hospital 178,Azithromycin,47.67,506,2530
+229.0,Ujjain Hospital 125,Muzaffarpur Hospital 22,Cough Syrup,49.07,511,2555
+229.0,Ujjain Hospital 125,Jaipur Hospital 86,Cough Syrup,40.05,511,2555
+228.0,Kota Hospital 100,Patna Hospital 213,Metformin,27.42,558,2790
+228.0,Kota Hospital 100,Pune Hospital 17,Metformin,48.0,558,2790
+228.0,Kota Hospital 100,Lucknow Hospital 219,Metformin,39.13,558,2790
+227.4,Patna Hospital 213,Mumbai Hospital 67,Ibuprofen,22.79,504,2520
+227.4,Patna Hospital 213,Sehore Hospital 71,Ibuprofen,43.93,504,2520
+227.4,Patna Hospital 213,Sehore Hospital 71,Ibuprofen,43.93,504,2520
+224.2,Jaipur Hospital 29,Kota Hospital 121,Vitamin B-Complex,33.4,541,2705
+223.4,Mumbai Hospital 179,Bhopal Hospital 45,Paracetamol,37.46,437,2185
+222.0,Ujjain Hospital 78,Raisen Hospital 203,Cough Syrup,34.88,423,2115
+222.0,Ujjain Hospital 78,Muzaffarpur Hospital 138,Cough Syrup,40.4,423,2115
+222.0,Ujjain Hospital 78,Muzaffarpur Hospital 138,Cough Syrup,40.4,423,2115
+222.0,Ujjain Hospital 78,Gaya Hospital 104,Cough Syrup,44.31,423,2115
+222.0,Ujjain Hospital 78,Muzaffarpur Hospital 138,Cough Syrup,40.4,423,2115
+221.8,Raisen Hospital 134,Ujjain Hospital 125,Cough Syrup,39.42,472,2360
+221.8,Raisen Hospital 134,Kanpur Hospital 126,Cough Syrup,46.94,472,2360
+221.8,Raisen Hospital 134,Jaipur Hospital 86,Cough Syrup,19.5,472,2360
+221.0,Mumbai Hospital 130,Raisen Hospital 203,Cough Syrup,40.93,521,2605
+220.8,Muzaffarpur Hospital 201,Kota Hospital 79,Azithromycin,6.76,480,2400
+220.8,Muzaffarpur Hospital 201,Kota Hospital 79,Azithromycin,6.76,480,2400
+220.4,Prayagraj Hospital 113,Indore Hospital 49,ORS,45.56,500,2500
+216.8,Nagpur Hospital 20,Muzaffarpur Hospital 137,Azithromycin,39.69,449,2245
+216.8,Nagpur Hospital 20,Nagpur Hospital 175,Azithromycin,42.25,449,2245
+216.6,Jaipur Hospital 74,Jaipur Hospital 80,Azithromycin,21.6,480,2400
+211.8,Sehore Hospital 71,Indore Hospital 60,Paracetamol,23.58,393,1965
+211.8,Sehore Hospital 71,Gaya Hospital 115,Paracetamol,34.56,393,1965
+209.6,Varanasi Hospital 209,Patna Hospital 16,Insulin,37.14,455,2275
+209.6,Varanasi Hospital 209,Nagpur Hospital 87,Insulin,28.82,455,2275
+208.6,Jaipur Hospital 73,Patna Hospital 197,Vitamin B-Complex,15.77,403,2015
+204.0,Pune Hospital 99,Ajmer Hospital 128,Metformin,32.17,456,2280
+204.0,Mumbai Hospital 46,Muzaffarpur Hospital 156,Amoxicillin,23.75,465,2325
+203.4,Ajmer Hospital 128,Ajmer Hospital 172,Ibuprofen,31.85,387,1935
+203.2,Indore Hospital 49,Gaya Hospital 148,Ibuprofen,47.66,448,2240
+203.2,Indore Hospital 49,Mumbai Hospital 41,Ibuprofen,41.84,448,2240
+203.2,Lucknow Hospital 217,Gaya Hospital 104,Paracetamol,31.1,421,2105
+202.6,Nagpur Hospital 208,Pune Hospital 136,Amoxicillin,49.93,424,2120
+200.8,Ajmer Hospital 176,Lucknow Hospital 200,ORS,38.03,445,2225
+200.8,Ajmer Hospital 176,Kanpur Hospital 126,ORS,46.02,445,2225
+200.8,Ajmer Hospital 176,Lucknow Hospital 200,ORS,38.03,445,2225
+200.0,Kota Hospital 121,Kota Hospital 93,Azithromycin,42.85,410,2050
+200.0,Kota Hospital 121,Pune Hospital 178,Azithromycin,47.67,410,2050
+198.8,Gaya Hospital 165,Kota Hospital 54,Amoxicillin,43.07,401,2005
+198.8,Gaya Hospital 165,Varanasi Hospital 158,Amoxicillin,43.72,401,2005
+198.8,Gaya Hospital 165,Gaya Hospital 148,Amoxicillin,39.26,401,2005
+197.6,Kota Hospital 54,Varanasi Hospital 14,Cough Syrup,34.79,389,1945
+197.6,Kota Hospital 54,Kanpur Hospital 69,Cough Syrup,34.02,389,1945
+197.4,Sehore Hospital 193,Pune Hospital 17,ORS,49.57,390,1950
+197.4,Sehore Hospital 193,Raisen Hospital 210,ORS,42.24,390,1950
+197.0,Mumbai Hospital 179,Bhopal Hospital 45,Ibuprofen,37.46,395,1975
+195.8,Indore Hospital 49,Gaya Hospital 165,Amoxicillin,38.49,377,1885
+195.8,Indore Hospital 49,Prayagraj Hospital 113,Amoxicillin,45.56,377,1885
+195.8,Indore Hospital 49,Gaya Hospital 148,Amoxicillin,47.66,377,1885
+195.4,Gaya Hospital 147,Pune Hospital 17,ORS,39.44,403,2015
+195.4,Kota Hospital 121,Jaipur Hospital 29,Metformin,33.4,355,1775
+195.4,Kota Hospital 121,Kota Hospital 93,Metformin,42.85,355,1775
+194.4,Mumbai Hospital 75,Indore Hospital 107,Insulin,21.08,354,1770
+194.4,Mumbai Hospital 75,Indore Hospital 107,Insulin,21.08,354,1770
+192.6,Muzaffarpur Hospital 22,Ujjain Hospital 125,Paracetamol,49.07,372,1860
+192.0,Pune Hospital 51,Raisen Hospital 155,Paracetamol,7.3,459,2295
+190.6,Raisen Hospital 210,Pune Hospital 17,ORS,32.55,349,1745
+190.6,Raisen Hospital 210,Sehore Hospital 193,ORS,42.24,349,1745
+190.6,Raisen Hospital 210,Gaya Hospital 115,ORS,31.04,349,1745
+190.6,Raisen Hospital 210,Mumbai Hospital 67,ORS,20.04,349,1745
+189.6,Sehore Hospital 71,Mumbai Hospital 67,Ibuprofen,44.19,423,2115
+187.4,Patna Hospital 34,Mumbai Hospital 82,Metformin,43.27,392,1960
+186.2,Pune Hospital 178,Kota Hospital 121,Azithromycin,47.67,407,2035
+186.2,Pune Hospital 178,Raisen Hospital 120,Azithromycin,41.46,407,2035
+185.4,Varanasi Hospital 158,Gaya Hospital 148,Cough Syrup,18.31,459,2295
+185.4,Varanasi Hospital 158,Jaipur Hospital 64,Cough Syrup,48.41,459,2295
+185.2,Varanasi Hospital 158,Ajmer Hospital 194,Amlodipine,47.53,448,2240
+185.2,Varanasi Hospital 158,Muzaffarpur Hospital 137,Amlodipine,46.37,448,2240
+184.8,Jaipur Hospital 84,Ajmer Hospital 127,Amoxicillin,31.37,426,2130
+183.8,Gaya Hospital 147,Mumbai Hospital 133,Amoxicillin,37.12,347,1735
+182.8,Raisen Hospital 15,Kanpur Hospital 69,Paracetamol,46.9,415,2075
+182.6,Nagpur Hospital 5,Mumbai Hospital 41,Ibuprofen,17.15,344,1720
+182.2,Ujjain Hospital 157,Lucknow Hospital 83,Azithromycin,30.0,424,2120
+182.2,Ujjain Hospital 157,Indore Hospital 180,Azithromycin,19.42,424,2120
+181.0,Jaipur Hospital 84,Kota Hospital 93,Metformin,42.03,358,1790
+180.2,Ajmer Hospital 172,Pune Hospital 99,Cough Syrup,37.82,425,2125
+180.2,Ajmer Hospital 172,Gaya Hospital 104,Cough Syrup,45.15,425,2125
+179.8,Patna Hospital 220,Lucknow Hospital 131,Metformin,14.12,325,1625
+177.6,Lucknow Hospital 200,Kanpur Hospital 9,Cough Syrup,48.18,399,1995
+177.6,Lucknow Hospital 200,Kanpur Hospital 126,Cough Syrup,23.13,399,1995
+177.6,Lucknow Hospital 200,Jaipur Hospital 86,Cough Syrup,37.78,399,1995
+177.0,Muzaffarpur Hospital 137,Nagpur Hospital 20,Azithromycin,39.69,360,1800
+177.0,Muzaffarpur Hospital 137,Nagpur Hospital 175,Azithromycin,25.27,360,1800
+177.0,Muzaffarpur Hospital 137,Varanasi Hospital 14,Azithromycin,40.21,360,1800
+175.8,Prayagraj Hospital 66,Kota Hospital 88,ORS,34.71,357,1785
+175.8,Prayagraj Hospital 66,Kota Hospital 88,ORS,34.71,357,1785
+175.8,Prayagraj Hospital 66,Varanasi Hospital 209,ORS,6.79,357,1785
+175.8,Prayagraj Hospital 66,Ajmer Hospital 189,ORS,38.34,357,1785
+174.8,Kanpur Hospital 9,Jaipur Hospital 140,Vitamin B-Complex,28.71,395,1975
+174.8,Kanpur Hospital 9,Sehore Hospital 77,Vitamin B-Complex,15.38,395,1975
+174.4,Kanpur Hospital 129,Nagpur Hospital 168,Ibuprofen,20.53,367,1835
+173.4,Prayagraj Hospital 171,Lucknow Hospital 200,Insulin,15.24,399,1995
+173.4,Prayagraj Hospital 171,Muzaffarpur Hospital 106,Insulin,39.1,399,1995
+173.4,Prayagraj Hospital 171,Muzaffarpur Hospital 106,Insulin,39.1,399,1995
+171.8,Kota Hospital 54,Kota Hospital 12,Ibuprofen,49.72,353,1765
+171.8,Kota Hospital 54,Kota Hospital 12,Ibuprofen,49.72,353,1765
+171.8,Kota Hospital 54,Muzaffarpur Hospital 137,Ibuprofen,28.12,353,1765
+171.2,Lucknow Hospital 217,Ajmer Hospital 172,Vitamin B-Complex,14.52,410,2050
+170.6,Prayagraj Hospital 122,Sehore Hospital 154,Amlodipine,42.91,290,1450
+170.2,Pune Hospital 136,Pune Hospital 103,Amoxicillin,2.37,298,1490
+169.6,Ajmer Hospital 128,Lucknow Hospital 217,Amlodipine,18.33,424,2120
+169.6,Ajmer Hospital 128,Muzaffarpur Hospital 138,Amlodipine,45.7,424,2120
+167.2,Raisen Hospital 109,Varanasi Hospital 199,Amoxicillin,35.75,328,1640
+164.8,Gaya Hospital 135,Pune Hospital 192,Insulin,19.53,355,1775
+164.8,Gaya Hospital 135,Lucknow Hospital 3,Insulin,19.34,355,1775
+164.8,Gaya Hospital 135,Kota Hospital 111,Insulin,17.83,355,1775
+163.6,Bhopal Hospital 144,Lucknow Hospital 131,Ibuprofen,47.5,391,1955
+161.6,Sehore Hospital 204,Jaipur Hospital 73,Vitamin B-Complex,29.92,338,1690
+161.6,Sehore Hospital 204,Patna Hospital 197,Vitamin B-Complex,36.14,338,1690
+161.6,Ajmer Hospital 33,Sehore Hospital 108,Vitamin B-Complex,40.57,374,1870
+161.6,Ajmer Hospital 33,Jaipur Hospital 29,Vitamin B-Complex,28.65,374,1870
+161.6,Ajmer Hospital 33,Sehore Hospital 108,Vitamin B-Complex,40.57,374,1870
+161.4,Kota Hospital 93,Kota Hospital 121,Cough Syrup,42.85,321,1605
+158.4,Jaipur Hospital 81,Raisen Hospital 210,Paracetamol,33.02,276,1380
+158.4,Jaipur Hospital 81,Sehore Hospital 193,Paracetamol,34.01,276,1380
+158.4,Jaipur Hospital 81,Kota Hospital 100,Paracetamol,13.55,276,1380
+158.4,Jaipur Hospital 81,Gaya Hospital 115,Paracetamol,42.73,276,1380
+155.6,Muzaffarpur Hospital 216,Nagpur Hospital 208,Metformin,35.82,368,1840
+155.6,Muzaffarpur Hospital 216,Prayagraj Hospital 57,Metformin,34.14,368,1840
+155.0,Gaya Hospital 147,Mumbai Hospital 133,Amoxicillin,37.12,257,1285
+152.2,Prayagraj Hospital 63,Gaya Hospital 104,Paracetamol,39.53,289,1445
+151.6,Sehore Hospital 160,Lucknow Hospital 200,ORS,33.63,295,1475
+151.6,Sehore Hospital 160,Kanpur Hospital 126,ORS,49.26,295,1475
+151.6,Sehore Hospital 160,Lucknow Hospital 200,ORS,33.63,295,1475
+151.2,Sehore Hospital 154,Pune Hospital 136,Amlodipine,45.95,267,1335
+151.2,Sehore Hospital 154,Prayagraj Hospital 122,Amlodipine,42.91,267,1335
+149.6,Sehore Hospital 204,Nagpur Hospital 168,Amoxicillin,47.97,374,1870
+149.6,Sehore Hospital 204,Lucknow Hospital 18,Amoxicillin,31.28,374,1870
+149.2,Bhopal Hospital 45,Mumbai Hospital 130,Insulin,26.4,244,1220
+148.8,Lucknow Hospital 200,Sehore Hospital 77,Metformin,39.06,351,1755
+148.8,Lucknow Hospital 200,Sehore Hospital 77,Metformin,39.06,351,1755
+148.8,Lucknow Hospital 200,Muzaffarpur Hospital 106,Metformin,25.63,351,1755
+148.8,Lucknow Hospital 200,Muzaffarpur Hospital 106,Metformin,25.63,351,1755
+148.8,Gaya Hospital 10,Gaya Hospital 90,Ibuprofen,49.13,273,1365
+147.0,Varanasi Hospital 14,Muzaffarpur Hospital 137,Azithromycin,40.21,291,1455
+146.4,Indore Hospital 89,Mumbai Hospital 133,Amoxicillin,23.43,249,1245
+144.2,Sehore Hospital 160,Bhopal Hospital 96,Amlodipine,42.81,254,1270
+144.2,Sehore Hospital 160,Ajmer Hospital 176,Amlodipine,15.98,254,1270
+144.2,Sehore Hospital 160,Raisen Hospital 134,Amlodipine,13.62,254,1270
+143.8,Raisen Hospital 173,Prayagraj Hospital 182,Amlodipine,42.28,334,1670
+143.8,Raisen Hospital 173,Prayagraj Hospital 182,Amlodipine,42.28,334,1670
+143.8,Raisen Hospital 173,Gaya Hospital 112,Amlodipine,34.94,334,1670
+143.4,Sehore Hospital 77,Kanpur Hospital 9,Cough Syrup,15.38,327,1635
+143.4,Sehore Hospital 77,Lucknow Hospital 3,Cough Syrup,46.67,327,1635
+143.4,Sehore Hospital 77,Kanpur Hospital 126,Cough Syrup,38.61,327,1635
+143.2,Bhopal Hospital 174,Jaipur Hospital 2,Amlodipine,32.96,346,1730
+143.2,Bhopal Hospital 174,Varanasi Hospital 117,Amlodipine,16.12,346,1730
+143.2,Bhopal Hospital 174,Varanasi Hospital 117,Amlodipine,16.12,346,1730
+143.0,Muzaffarpur Hospital 92,Mumbai Hospital 179,Amlodipine,31.84,296,1480
+141.8,Indore Hospital 107,Muzaffarpur Hospital 53,Insulin,43.48,323,1615
+141.2,Kota Hospital 121,Kota Hospital 93,Insulin,42.85,272,1360
+141.2,Kota Hospital 121,Jaipur Hospital 29,Insulin,33.4,272,1360
+138.6,Pune Hospital 196,Indore Hospital 60,Cough Syrup,46.54,309,1545
+138.6,Pune Hospital 196,Pune Hospital 17,Cough Syrup,30.33,309,1545
+138.6,Pune Hospital 196,Patna Hospital 213,Cough Syrup,41.15,309,1545
+138.6,Pune Hospital 196,Kota Hospital 100,Cough Syrup,39.3,309,1545
+138.2,Kota Hospital 52,Indore Hospital 162,Ibuprofen,32.25,209,1045
+138.2,Kota Hospital 52,Ajmer Hospital 172,Ibuprofen,40.46,209,1045
+138.2,Kota Hospital 52,Pune Hospital 102,Ibuprofen,42.24,209,1045
+138.2,Kota Hospital 52,Indore Hospital 162,Ibuprofen,32.25,209,1045
+135.8,Gaya Hospital 177,Lucknow Hospital 48,Amoxicillin,13.76,281,1405
+135.8,Gaya Hospital 177,Muzaffarpur Hospital 138,Amoxicillin,19.4,281,1405
+134.6,Nagpur Hospital 20,Muzaffarpur Hospital 137,Azithromycin,39.69,212,1060
+134.6,Nagpur Hospital 20,Nagpur Hospital 175,Azithromycin,42.25,212,1060
+134.6,Jaipur Hospital 86,Raisen Hospital 134,Amoxicillin,19.5,323,1615
+134.6,Jaipur Hospital 86,Ujjain Hospital 125,Amoxicillin,40.05,323,1615
+133.4,Mumbai Hospital 133,Gaya Hospital 147,Amoxicillin,37.12,218,1090
+133.4,Mumbai Hospital 133,Indore Hospital 89,Amoxicillin,23.43,218,1090
+132.4,Lucknow Hospital 83,Kanpur Hospital 145,Paracetamol,41.57,319,1595
+132.4,Lucknow Hospital 83,Varanasi Hospital 186,Paracetamol,40.94,319,1595
+132.2,Kanpur Hospital 69,Varanasi Hospital 14,Cough Syrup,6.54,194,970
+132.2,Kanpur Hospital 69,Kota Hospital 54,Cough Syrup,34.02,194,970
+131.0,Patna Hospital 185,Sehore Hospital 154,Amlodipine,6.23,275,1375
+131.0,Patna Hospital 185,Pune Hospital 136,Amlodipine,41.71,275,1375
+131.0,Patna Hospital 185,Prayagraj Hospital 122,Amlodipine,45.45,275,1375
+128.6,Indore Hospital 124,Gaya Hospital 147,Vitamin B-Complex,8.77,233,1165
+128.0,Varanasi Hospital 199,Muzaffarpur Hospital 116,Cough Syrup,48.78,185,925
+128.0,Varanasi Hospital 199,Muzaffarpur Hospital 116,Cough Syrup,48.78,185,925
+127.4,Pune Hospital 101,Gaya Hospital 94,Amlodipine,42.94,212,1060
+127.4,Pune Hospital 101,Sehore Hospital 191,Amlodipine,31.75,212,1060
+124.6,Muzaffarpur Hospital 116,Varanasi Hospital 132,ORS,49.64,277,1385
+124.6,Muzaffarpur Hospital 116,Pune Hospital 102,ORS,16.3,277,1385
+124.6,Muzaffarpur Hospital 116,Mumbai Hospital 37,ORS,44.71,277,1385
+122.8,Indore Hospital 162,Kota Hospital 52,Ibuprofen,32.25,277,1385
+121.4,Patna Hospital 91,Patna Hospital 146,Azithromycin,16.1,296,1480
+119.4,Prayagraj Hospital 182,Sehore Hospital 13,Azithromycin,16.13,192,960
+116.6,Pune Hospital 102,Varanasi Hospital 132,ORS,36.95,206,1030
+116.6,Pune Hospital 102,Muzaffarpur Hospital 116,ORS,16.3,206,1030
+116.4,Lucknow Hospital 200,Jaipur Hospital 140,ORS,38.22,246,1230
+116.4,Lucknow Hospital 200,Kanpur Hospital 126,ORS,23.13,246,1230
+116.2,Nagpur Hospital 20,Sehore Hospital 108,Vitamin B-Complex,27.39,202,1010
+116.2,Nagpur Hospital 20,Sehore Hospital 108,Vitamin B-Complex,27.39,202,1010
+115.8,Muzaffarpur Hospital 138,Ajmer Hospital 128,Amlodipine,45.7,153,765
+115.8,Muzaffarpur Hospital 138,Gaya Hospital 177,Amlodipine,19.4,153,765
+115.0,Jaipur Hospital 84,Kota Hospital 93,Azithromycin,42.03,196,980
+115.0,Jaipur Hospital 84,Sehore Hospital 204,Azithromycin,34.45,196,980
+111.4,Varanasi Hospital 186,Prayagraj Hospital 190,Amlodipine,16.79,196,980
+111.4,Varanasi Hospital 186,Nagpur Hospital 35,Amlodipine,39.93,196,980
+108.8,Pune Hospital 103,Pune Hospital 136,Amoxicillin,2.37,152,760
+105.6,Kota Hospital 111,Lucknow Hospital 3,Azithromycin,7.13,150,750
+105.4,Ajmer Hospital 50,Prayagraj Hospital 190,Amlodipine,21.07,253,1265
+105.4,Ajmer Hospital 50,Nagpur Hospital 35,Amlodipine,36.81,253,1265
+103.8,Patna Hospital 31,Muzaffarpur Hospital 116,Cough Syrup,37.04,171,855
+103.8,Patna Hospital 31,Muzaffarpur Hospital 116,Cough Syrup,37.04,171,855
+103.2,Varanasi Hospital 207,Gaya Hospital 104,Cough Syrup,41.11,204,1020
+103.2,Varanasi Hospital 207,Ajmer Hospital 172,Cough Syrup,33.53,204,1020
+102.8,Sehore Hospital 71,Gaya Hospital 115,ORS,34.56,140,700
+102.8,Sehore Hospital 71,Mumbai Hospital 67,ORS,44.19,140,700
+100.8,Ujjain Hospital 78,Muzaffarpur Hospital 138,Amoxicillin,40.4,162,810
+100.8,Ujjain Hospital 78,Gaya Hospital 104,Amoxicillin,44.31,162,810
+100.2,Indore Hospital 60,Patna Hospital 213,Cough Syrup,20.56,243,1215
+100.2,Indore Hospital 60,Pune Hospital 196,Cough Syrup,46.54,243,1215
+100.2,Indore Hospital 60,Pune Hospital 196,Cough Syrup,46.54,243,1215
+100.2,Indore Hospital 60,Kota Hospital 100,Cough Syrup,47.13,243,1215
+99.4,Jaipur Hospital 140,Lucknow Hospital 200,ORS,38.22,184,920
+99.4,Jaipur Hospital 140,Varanasi Hospital 117,ORS,43.31,184,920
+99.4,Jaipur Hospital 140,Kanpur Hospital 126,ORS,29.89,184,920
+99.4,Jaipur Hospital 140,Lucknow Hospital 200,ORS,38.22,184,920
+96.0,Gaya Hospital 177,Muzaffarpur Hospital 138,Amlodipine,19.4,150,750
+96.0,Prayagraj Hospital 122,Lucknow Hospital 23,Paracetamol,35.42,129,645
+96.0,Prayagraj Hospital 122,Sehore Hospital 154,Paracetamol,42.91,129,645
+96.0,Prayagraj Hospital 122,Lucknow Hospital 23,Paracetamol,35.42,129,645
+95.4,Kota Hospital 54,Gaya Hospital 165,Amoxicillin,43.07,114,570
+95.0,Varanasi Hospital 59,Varanasi Hospital 163,Vitamin B-Complex,27.84,185,925
+95.0,Varanasi Hospital 59,Sehore Hospital 181,Vitamin B-Complex,46.16,185,925
+92.6,Sehore Hospital 13,Prayagraj Hospital 182,Azithromycin,16.13,110,550
+92.4,Patna Hospital 161,Nagpur Hospital 68,Insulin,42.46,153,765
+90.4,Jaipur Hospital 39,Pune Hospital 152,Azithromycin,26.02,211,1055
+90.0,Pune Hospital 102,Varanasi Hospital 199,Amoxicillin,43.79,171,855
+89.6,Prayagraj Hospital 63,Ajmer Hospital 172,ORS,49.96,122,610
+89.6,Prayagraj Hospital 63,Lucknow Hospital 217,ORS,44.72,122,610
+89.6,Ujjain Hospital 157,Lucknow Hospital 83,Vitamin B-Complex,30.0,167,835
+89.4,Lucknow Hospital 3,Kanpur Hospital 9,Cough Syrup,48.95,138,690
+89.4,Lucknow Hospital 3,Gaya Hospital 135,Cough Syrup,19.34,138,690
+88.2,Gaya Hospital 115,Raisen Hospital 210,ORS,31.04,120,600
+88.2,Gaya Hospital 115,Mumbai Hospital 67,ORS,14.15,120,600
+87.0,Kanpur Hospital 129,Prayagraj Hospital 110,ORS,41.28,144,720
+87.0,Kanpur Hospital 129,Sehore Hospital 204,ORS,35.92,144,720
+87.0,Kanpur Hospital 129,Sehore Hospital 204,ORS,35.92,144,720
+87.0,Kanpur Hospital 129,Jaipur Hospital 73,ORS,28.31,144,720
+87.0,Kanpur Hospital 129,Raisen Hospital 36,ORS,10.6,144,720
+84.8,Kanpur Hospital 126,Lucknow Hospital 200,Metformin,23.13,134,670
+84.8,Kanpur Hospital 126,Sehore Hospital 77,Metformin,38.61,134,670
+84.8,Kanpur Hospital 126,Indore Hospital 85,Metformin,37.94,134,670
+84.8,Kanpur Hospital 126,Lucknow Hospital 200,Metformin,23.13,134,670
+84.8,Kanpur Hospital 126,Sehore Hospital 77,Metformin,38.61,134,670
+84.8,Kanpur Hospital 126,Muzaffarpur Hospital 106,Metformin,11.41,134,670
+84.8,Kanpur Hospital 126,Muzaffarpur Hospital 106,Metformin,11.41,134,670
+83.8,Mumbai Hospital 41,Indore Hospital 49,Cough Syrup,41.84,151,755
+83.8,Mumbai Hospital 41,Nagpur Hospital 5,Cough Syrup,17.15,151,755
+83.8,Mumbai Hospital 41,Muzaffarpur Hospital 187,Cough Syrup,47.92,151,755
+83.8,Mumbai Hospital 41,Patna Hospital 16,Cough Syrup,25.03,151,755
+83.8,Mumbai Hospital 41,Muzaffarpur Hospital 187,Cough Syrup,47.92,151,755
+83.8,Mumbai Hospital 41,Prayagraj Hospital 113,Cough Syrup,20.08,151,755
+83.6,Kota Hospital 12,Kota Hospital 54,Ibuprofen,49.72,137,685
+83.6,Pune Hospital 17,Raisen Hospital 70,Amlodipine,17.12,83,415
+81.6,Patna Hospital 4,Varanasi Hospital 132,Insulin,7.27,84,420
+80.4,Sehore Hospital 27,Gaya Hospital 112,Vitamin B-Complex,13.27,147,735
+80.4,Sehore Hospital 27,Varanasi Hospital 163,Vitamin B-Complex,44.49,147,735
+80.4,Sehore Hospital 27,Kota Hospital 79,Vitamin B-Complex,34.26,147,735
+80.4,Sehore Hospital 27,Raisen Hospital 173,Vitamin B-Complex,48.16,147,735
+79.8,Varanasi Hospital 163,Sehore Hospital 27,Cough Syrup,44.49,105,525
+79.2,Nagpur Hospital 208,Muzaffarpur Hospital 216,Metformin,35.82,75,375
+79.2,Nagpur Hospital 208,Muzaffarpur Hospital 216,Metformin,35.82,75,375
+79.0,Lucknow Hospital 217,Prayagraj Hospital 63,ORS,44.72,154,770
+79.0,Lucknow Hospital 217,Ajmer Hospital 172,ORS,14.52,154,770
+78.2,Ujjain Hospital 32,Indore Hospital 49,Cough Syrup,41.19,110,550
+78.2,Ujjain Hospital 32,Gaya Hospital 148,Cough Syrup,33.95,110,550
+78.0,Nagpur Hospital 198,Jaipur Hospital 80,Azithromycin,34.31,195,975
+78.0,Raisen Hospital 155,Pune Hospital 51,Paracetamol,7.3,99,495
+77.2,Patna Hospital 146,Patna Hospital 91,Paracetamol,16.1,115,575
+74.6,Raisen Hospital 134,Sehore Hospital 160,Amlodipine,13.62,137,685
+74.6,Raisen Hospital 134,Bhopal Hospital 96,Amlodipine,49.63,137,685
+74.6,Raisen Hospital 134,Sehore Hospital 160,Amlodipine,13.62,137,685
+74.6,Raisen Hospital 134,Ajmer Hospital 176,Amlodipine,2.5,137,685
+74.4,Prayagraj Hospital 110,Raisen Hospital 36,Cough Syrup,32.44,120,600
+74.4,Jaipur Hospital 21,Kanpur Hospital 69,Paracetamol,19.48,162,810
+73.4,Sehore Hospital 13,Raisen Hospital 173,Amlodipine,32.9,119,595
+73.4,Sehore Hospital 13,Prayagraj Hospital 182,Amlodipine,16.13,119,595
+73.4,Sehore Hospital 13,Prayagraj Hospital 182,Amlodipine,16.13,119,595
+73.4,Sehore Hospital 13,Gaya Hospital 112,Amlodipine,33.59,119,595
+72.4,Jaipur Hospital 29,Kota Hospital 121,Vitamin B-Complex,33.4,82,410
+72.2,Varanasi Hospital 132,Pune Hospital 102,ORS,36.95,68,340
+72.2,Varanasi Hospital 132,Muzaffarpur Hospital 116,ORS,49.64,68,340
+72.0,Mumbai Hospital 67,Raisen Hospital 70,Azithromycin,29.59,111,555
+71.0,Muzaffarpur Hospital 92,Bhopal Hospital 45,Paracetamol,17.82,131,655
+70.6,Bhopal Hospital 144,Lucknow Hospital 131,ORS,47.5,148,740
+68.8,Kota Hospital 93,Jaipur Hospital 84,Metformin,42.03,64,320
+67.4,Ujjain Hospital 43,Ajmer Hospital 189,Cough Syrup,25.09,131,655
+67.4,Ujjain Hospital 43,Gaya Hospital 214,Cough Syrup,44.07,131,655
+67.2,Jaipur Hospital 2,Varanasi Hospital 117,ORS,47.23,159,795
+67.2,Jaipur Hospital 2,Ajmer Hospital 76,ORS,43.78,159,795
+66.6,Mumbai Hospital 67,Sehore Hospital 71,Insulin,44.19,57,285
+66.6,Mumbai Hospital 67,Indore Hospital 60,Insulin,28.35,57,285
+65.0,Varanasi Hospital 14,Kanpur Hospital 69,Cough Syrup,6.54,53,265
+65.0,Varanasi Hospital 14,Kota Hospital 54,Cough Syrup,34.79,53,265
+64.8,Gaya Hospital 104,Muzaffarpur Hospital 138,Cough Syrup,32.41,42,210
+64.8,Gaya Hospital 104,Muzaffarpur Hospital 138,Cough Syrup,32.41,42,210
+64.8,Gaya Hospital 104,Ajmer Hospital 172,Cough Syrup,45.15,42,210
+64.8,Gaya Hospital 104,Muzaffarpur Hospital 138,Cough Syrup,32.41,42,210
+64.6,Muzaffarpur Hospital 137,Gaya Hospital 148,Ibuprofen,48.58,85,425
+64.6,Muzaffarpur Hospital 137,Kota Hospital 54,Ibuprofen,28.12,85,425
+64.0,Gaya Hospital 177,Muzaffarpur Hospital 138,Cough Syrup,19.4,157,785
+64.0,Gaya Hospital 177,Muzaffarpur Hospital 138,Cough Syrup,19.4,157,785
+64.0,Gaya Hospital 177,Muzaffarpur Hospital 138,Cough Syrup,19.4,157,785
+62.4,Muzaffarpur Hospital 42,Muzaffarpur Hospital 150,Cough Syrup,50.0,138,690
+62.4,Muzaffarpur Hospital 42,Muzaffarpur Hospital 153,Cough Syrup,19.77,138,690
+62.4,Kota Hospital 100,Indore Hospital 60,Cough Syrup,47.13,72,360
+62.4,Kota Hospital 100,Pune Hospital 17,Cough Syrup,48.0,72,360
+62.4,Kota Hospital 100,Patna Hospital 213,Cough Syrup,27.42,72,360
+62.4,Kota Hospital 100,Pune Hospital 196,Cough Syrup,39.3,72,360
+62.4,Kota Hospital 100,Pune Hospital 196,Cough Syrup,39.3,72,360
+62.0,Varanasi Hospital 199,Pune Hospital 102,Amoxicillin,43.79,119,595
+62.0,Varanasi Hospital 199,Pune Hospital 102,Amoxicillin,43.79,119,595
+62.0,Varanasi Hospital 199,Raisen Hospital 109,Amoxicillin,35.75,119,595
+61.8,Jaipur Hospital 21,Varanasi Hospital 14,Insulin,18.0,126,630
+61.6,Gaya Hospital 112,Raisen Hospital 173,Amlodipine,34.94,139,695
+61.6,Gaya Hospital 112,Prayagraj Hospital 182,Amlodipine,26.7,139,695
+61.6,Gaya Hospital 112,Prayagraj Hospital 182,Amlodipine,26.7,139,695
+61.4,Sehore Hospital 13,Ajmer Hospital 167,Metformin,16.96,116,580
+60.8,Pune Hospital 136,Sehore Hospital 154,Amlodipine,45.95,110,550
+60.6,Mumbai Hospital 130,Mumbai Hospital 179,Amoxicillin,36.77,54,270
+60.6,Mumbai Hospital 130,Lucknow Hospital 11,Amoxicillin,10.83,54,270
+59.6,Kanpur Hospital 9,Jaipur Hospital 140,Vitamin B-Complex,28.71,23,115
+59.6,Kanpur Hospital 9,Sehore Hospital 77,Vitamin B-Complex,15.38,23,115
+59.2,Muzaffarpur Hospital 156,Muzaffarpur Hospital 22,Azithromycin,29.43,94,470
+58.4,Raisen Hospital 134,Ujjain Hospital 125,Amoxicillin,39.42,32,160
+56.6,Pune Hospital 102,Varanasi Hospital 199,Amoxicillin,43.79,110,550
+56.4,Ajmer Hospital 128,Lucknow Hospital 217,Amlodipine,18.33,111,555
+56.4,Ajmer Hospital 128,Muzaffarpur Hospital 138,Amlodipine,45.7,111,555
+54.2,Varanasi Hospital 158,Gaya Hospital 165,Amoxicillin,43.72,98,490
+54.2,Varanasi Hospital 158,Gaya Hospital 148,Amoxicillin,18.31,98,490
+51.6,Bhopal Hospital 45,Kota Hospital 8,Paracetamol,33.87,24,120
+51.6,Pune Hospital 178,Gaya Hospital 148,Cough Syrup,45.1,66,330
+51.6,Pune Hospital 178,Ujjain Hospital 32,Cough Syrup,40.14,66,330
+51.6,Pune Hospital 178,Kota Hospital 121,Cough Syrup,47.67,66,330
+51.2,Kota Hospital 55,Pune Hospital 47,Vitamin B-Complex,29.72,38,190
+50.4,Nagpur Hospital 175,Nagpur Hospital 20,Azithromycin,42.25,120,600
+50.4,Nagpur Hospital 175,Muzaffarpur Hospital 137,Azithromycin,25.27,120,600
+50.2,Sehore Hospital 204,Prayagraj Hospital 110,ORS,21.26,61,305
+50.2,Sehore Hospital 204,Kanpur Hospital 129,ORS,35.92,61,305
+50.2,Sehore Hospital 204,Jaipur Hospital 73,ORS,29.92,61,305
+50.2,Sehore Hospital 204,Raisen Hospital 36,ORS,32.01,61,305
+49.0,Sehore Hospital 27,Gaya Hospital 112,Paracetamol,13.27,25,125
+49.0,Sehore Hospital 27,Gaya Hospital 112,Paracetamol,13.27,25,125
+48.6,Muzaffarpur Hospital 138,Gaya Hospital 177,Cough Syrup,19.4,39,195
+48.6,Muzaffarpur Hospital 138,Gaya Hospital 104,Cough Syrup,32.41,39,195
+48.4,Muzaffarpur Hospital 138,Gaya Hospital 177,Cough Syrup,19.4,46,230
+48.4,Muzaffarpur Hospital 138,Gaya Hospital 104,Cough Syrup,32.41,46,230
+46.6,Muzaffarpur Hospital 187,Patna Hospital 16,Cough Syrup,24.81,91,455
+46.6,Muzaffarpur Hospital 187,Mumbai Hospital 41,Cough Syrup,47.92,91,455
+46.6,Muzaffarpur Hospital 187,Nagpur Hospital 198,Cough Syrup,30.63,91,455
+46.6,Muzaffarpur Hospital 187,Gaya Hospital 214,Cough Syrup,45.68,91,455
+46.6,Muzaffarpur Hospital 187,Prayagraj Hospital 113,Cough Syrup,38.21,91,455
+45.8,Kota Hospital 8,Pune Hospital 56,Ibuprofen,26.8,110,550
+45.8,Kota Hospital 8,Bhopal Hospital 45,Ibuprofen,33.87,110,550
+43.6,Raisen Hospital 173,Prayagraj Hospital 182,Amlodipine,42.28,85,425
+43.6,Raisen Hospital 173,Prayagraj Hospital 182,Amlodipine,42.28,85,425
+43.6,Raisen Hospital 173,Gaya Hospital 112,Amlodipine,34.94,85,425
+43.2,Mumbai Hospital 170,Prayagraj Hospital 57,Metformin,44.44,81,405
+42.6,Varanasi Hospital 132,Patna Hospital 4,Insulin,7.27,42,210
+42.4,Bhopal Hospital 45,Pune Hospital 56,Ibuprofen,43.39,94,470
+42.4,Bhopal Hospital 45,Kota Hospital 8,Ibuprofen,33.87,94,470
+37.6,Mumbai Hospital 67,Pune Hospital 17,ORS,46.37,46,230
+37.6,Mumbai Hospital 67,Raisen Hospital 210,ORS,20.04,46,230
+37.6,Mumbai Hospital 67,Gaya Hospital 115,ORS,14.15,46,230
+36.0,Kanpur Hospital 69,Jaipur Hospital 21,Paracetamol,19.48,27,135
+36.0,Kanpur Hospital 69,Jaipur Hospital 21,Paracetamol,19.48,27,135
+34.0,Raisen Hospital 210,Pune Hospital 17,Paracetamol,32.55,22,110
+34.0,Raisen Hospital 210,Raisen Hospital 70,Paracetamol,19.82,22,110
+34.0,Raisen Hospital 210,Indore Hospital 60,Paracetamol,45.7,22,110
+34.0,Raisen Hospital 210,Sehore Hospital 193,Paracetamol,42.24,22,110
+34.0,Raisen Hospital 210,Jaipur Hospital 81,Paracetamol,33.02,22,110
+34.0,Raisen Hospital 210,Kota Hospital 100,Paracetamol,19.47,22,110
+34.0,Raisen Hospital 210,Gaya Hospital 115,Paracetamol,31.04,22,110
+32.6,Gaya Hospital 112,Sehore Hospital 27,Paracetamol,13.27,41,205
+31.8,Sehore Hospital 71,Mumbai Hospital 67,Ibuprofen,44.19,51,255
+24.8,Raisen Hospital 70,Mumbai Hospital 67,Azithromycin,29.59,56,280
+16.4,Nagpur Hospital 168,Prayagraj Hospital 110,Azithromycin,43.66,11,55
+16.4,Nagpur Hospital 168,Sehore Hospital 204,Azithromycin,47.97,11,55
+9.6,Pune Hospital 56,Ujjain Hospital 78,Vitamin B-Complex,47.92,24,120
+9.6,Pune Hospital 56,Muzaffarpur Hospital 153,Vitamin B-Complex,46.31,24,120
+8.4,Kota Hospital 88,Varanasi Hospital 209,ORS,36.83,21,105
+8.4,Kota Hospital 88,Prayagraj Hospital 66,ORS,34.71,21,105
