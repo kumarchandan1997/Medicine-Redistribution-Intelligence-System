@@ -29,3 +29,15 @@ The system:
 
 ## 🧠 System Architecture
 
+Hospitals & Inventory Data
+↓
+Python + Pandas Analytics
+↓
+Redistribution Intelligence Engine
+↓
+Impact Metrics Calculation
+↓
+MySQL Database
+↓
+Flask Dashboard (Planned)
+
